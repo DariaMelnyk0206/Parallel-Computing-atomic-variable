@@ -1,6 +1,0 @@
-﻿  PO_lab2.1.cpp
-C:\Users\Master\source\repos\PO_lab2.1\PO_lab2.1.cpp(58,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Master\source\repos\PO_lab2.1\PO_lab2.1.cpp(63,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Master\source\repos\PO_lab2.1\PO_lab2.1.cpp(102,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Master\source\repos\PO_lab2.1\PO_lab2.1.cpp(107,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  PO_lab2.1.vcxproj -> C:\Users\Master\source\repos\PO_lab2.1\x64\Debug\PO_lab2.1.exe
